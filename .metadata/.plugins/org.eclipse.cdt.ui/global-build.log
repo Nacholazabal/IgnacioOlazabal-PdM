@@ -1,0 +1,83 @@
+19:33:27 **** Incremental Build of configuration Debug for project Practica_1 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Practica_1.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_1\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Practica_1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Practica_1.elf
+ 
+arm-none-eabi-size  Practica_1.elf 
+arm-none-eabi-objdump -h -S Practica_1.elf  > "Practica_1.list"
+   text	   data	    bss	    dec	    hex	filename
+   8680	     20	   1644	  10344	   2868	Practica_1.elf
+Finished building: default.size.stdout
+ 
+Finished building: Practica_1.list
+ 
+19:33:45 **** Incremental Build of configuration Debug for project Practica_1 ****
+make -j12 all 
+arm-none-eabi-size  Practica_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8680	     20	   1644	  10344	   2868	Practica_1.elf
+Finished building: default.size.stdout
+ 
+19:35:54 **** Incremental Build of configuration Debug for project Practica_1 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:107:19: warning: implicit declaration of function 'While' [-Wimplicit-function-declaration]
+  107 |                   While(!(HAL_GPIO_ReadPin(B1_GPIO_Port, B1_Pin))){
+      |                   ^~~~~
+../Core/Src/main.c:107:67: error: expected ';' before '{' token
+  107 |                   While(!(HAL_GPIO_ReadPin(B1_GPIO_Port, B1_Pin))){
+      |                                                                   ^
+      |                                                                   ;
+make: *** [Core/Src/subdir.mk:34: Core/Src/main.o] Error 1
+"make -j12 all" terminated with exit code 2. Build might be incomplete.
+19:36:09 **** Incremental Build of configuration Debug for project Practica_1 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Practica_1.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_1\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Practica_1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Practica_1.elf
+ 
+arm-none-eabi-size  Practica_1.elf 
+arm-none-eabi-objdump -h -S Practica_1.elf  > "Practica_1.list"
+   text	   data	    bss	    dec	    hex	filename
+   8696	     20	   1644	  10360	   2878	Practica_1.elf
+Finished building: default.size.stdout
+ 
+Finished building: Practica_1.list
+ 
+20:46:07 **** Incremental Build of configuration Debug for project Practica_1 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Practica_1.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_1\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Practica_1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Practica_1.elf
+ 
+arm-none-eabi-size  Practica_1.elf 
+arm-none-eabi-objdump -h -S Practica_1.elf  > "Practica_1.list"
+   text	   data	    bss	    dec	    hex	filename
+   8724	     20	   1644	  10388	   2894	Practica_1.elf
+Finished building: default.size.stdout
+ 
+Finished building: Practica_1.list
+ 
+20:47:00 **** Incremental Build of configuration Debug for project Practica_1 ****
+make -j12 all 
+arm-none-eabi-size  Practica_1.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8724	     20	   1644	  10388	   2894	Practica_1.elf
+Finished building: default.size.stdout
+ 
+20:48:03 **** Incremental Build of configuration Debug for project Practica_1 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F446xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "Practica_1.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_1\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Practica_1.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: Practica_1.elf
+ 
+arm-none-eabi-size  Practica_1.elf 
+arm-none-eabi-objdump -h -S Practica_1.elf  > "Practica_1.list"
+   text	   data	    bss	    dec	    hex	filename
+   8720	     20	   1644	  10384	   2890	Practica_1.elf
+Finished building: default.size.stdout
+ 
+Finished building: Practica_1.list
+ 
