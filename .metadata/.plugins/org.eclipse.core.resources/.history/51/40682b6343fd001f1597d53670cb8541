@@ -122,7 +122,7 @@ int main(void)
 		  // Lo realizamos avanzando de manera circular en el array
 		  // De esta manera la implementacion sigue siendo valida para cualquier
 		  // Cantidad de posibles de tiempos
-		  time_select = (time_select + 1)% T_SIZE;
+		  time_select = (time_select++)% T_SIZE;
 	  }
     /* USER CODE END WHILE */
 

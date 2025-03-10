@@ -37,15 +37,15 @@ Idx Name          Size      VMA       LMA       File off  Algn
                   CONTENTS, READONLY, DEBUGGING, OCTETS
  16 .debug_rnglists 00000512  00000000  00000000  00029770  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 17 .debug_macro  0002019c  00000000  00000000  00029c82  2**0
+ 17 .debug_macro  000201a2  00000000  00000000  00029c82  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 18 .debug_line   00008c6b  00000000  00000000  00049e1e  2**0
+ 18 .debug_line   00008c70  00000000  00000000  00049e24  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 19 .debug_str    000c4887  00000000  00000000  00052a89  2**0
+ 19 .debug_str    000c4890  00000000  00000000  00052a94  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 20 .debug_frame  00001a28  00000000  00000000  00117310  2**2
+ 20 .debug_frame  00001a28  00000000  00000000  00117324  2**2
                   CONTENTS, READONLY, DEBUGGING, OCTETS
- 21 .debug_line_str 0000008b  00000000  00000000  00118d38  2**0
+ 21 .debug_line_str 0000008b  00000000  00000000  00118d4c  2**0
                   CONTENTS, READONLY, DEBUGGING, OCTETS
 
 Disassembly of section .text:
@@ -453,22 +453,21 @@ int main(void)
  8000580:	4603      	mov	r3, r0
  8000582:	2b00      	cmp	r3, #0
  8000584:	d0f7      	beq.n	8000576 <main+0x76>
-			  // Esperamos a que el usuario suelte el boton
-			  // De esta manera evitamos comportamientos indeseados
-			  // El LED queda apagado hasta que se suelta el boton
 		  }
 		  // Una vez soltado el boton cambiamos de tiempo seleccionado
-		  time_select = (time_select == 0) ? 1 : 0;
+		  // Lo realizamos avanzando de manera circular en el array
+		  // De esta manera la implementacion sigue siendo valida para cualquier
+		  // Cantidad de posibles de tiempos
+		  time_select = (time_select + 1)% T_SIZE;
  8000586:	7bfb      	ldrb	r3, [r7, #15]
- 8000588:	2b00      	cmp	r3, #0
- 800058a:	bf0c      	ite	eq
- 800058c:	2301      	moveq	r3, #1
- 800058e:	2300      	movne	r3, #0
- 8000590:	b2db      	uxtb	r3, r3
- 8000592:	73fb      	strb	r3, [r7, #15]
+ 8000588:	3301      	adds	r3, #1
+ 800058a:	2b00      	cmp	r3, #0
+ 800058c:	f003 0301 	and.w	r3, r3, #1
+ 8000590:	bfb8      	it	lt
+ 8000592:	425b      	neglt	r3, r3
+ 8000594:	73fb      	strb	r3, [r7, #15]
 	  HAL_GPIO_TogglePin(LD2_GPIO_Port, LD2_Pin);
- 8000594:	e7cc      	b.n	8000530 <main+0x30>
- 8000596:	bf00      	nop
+ 8000596:	e7cb      	b.n	8000530 <main+0x30>
  8000598:	080021e8 	.word	0x080021e8
  800059c:	40020000 	.word	0x40020000
  80005a0:	40020800 	.word	0x40020800

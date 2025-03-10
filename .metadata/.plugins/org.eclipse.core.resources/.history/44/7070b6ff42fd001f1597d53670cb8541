@@ -36,7 +36,7 @@
 
 /* Private macro -------------------------------------------------------------*/
 /* USER CODE BEGIN PM */
-#define T_SIZE 2	// Cantidad de tiempos distintos a iterar
+
 /* USER CODE END PM */
 
 /* Private variables ---------------------------------------------------------*/
@@ -119,10 +119,7 @@ int main(void)
 			  // El LED queda apagado hasta que se suelta el boton
 		  }
 		  // Una vez soltado el boton cambiamos de tiempo seleccionado
-		  // Lo realizamos avanzando de manera circular en el array
-		  // De esta manera la implementacion sigue siendo valida para cualquier
-		  // Cantidad de posibles de tiempos
-		  time_select = (time_select + 1)% T_SIZE;
+		  time_select = (time_select == 0) ? 1 : 0;
 	  }
     /* USER CODE END WHILE */
 
