@@ -12,3 +12,10 @@ arm-none-eabi-size  Practica_3.elf
   13460	    112	   1976	  15548	   3cbc	Practica_3.elf
 Finished building: default.size.stdout
  
+02:30:29 **** Build of configuration Debug for project Practica_4 ****
+make -j12 all 
+arm-none-eabi-size  Practica_4.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13756	    112	   2000	  15868	   3dfc	Practica_4.elf
+Finished building: default.size.stdout
+ 
