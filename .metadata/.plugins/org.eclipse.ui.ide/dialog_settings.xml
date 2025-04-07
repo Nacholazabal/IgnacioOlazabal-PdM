@@ -11,6 +11,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2"/>
 			<item value="C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Correcciones\PdM_workspace-main\PdM_workspace-main\practica4"/>
 			<item value="C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM"/>
 			<item value="C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Correcciones\programcion_microcontroladores-main\programcion_microcontroladores-main\practica_02"/>

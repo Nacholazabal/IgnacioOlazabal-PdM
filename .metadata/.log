@@ -567,3 +567,865 @@ java.lang.Exception: File: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MC
 
 !ENTRY org.eclipse.cdt.core 1 0 2025-04-02 22:20:34.993
 !MESSAGE Indexed 'Practica_4_1' (25 sources, 126 headers) in 1.77 sec: 12,105 declarations; 48,628 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.39%)
+!SESSION 2025-04-03 19:04:39.188 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-03 19:05:21.805
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-03 19:05:21.829
+!MESSAGE Log4j2 initialized with config file C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-03 19:05:42.358
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-03 20:57:52.541
+!MESSAGE Indexed 'Practica_5' (23 sources, 123 headers) in 3.28 sec: 12,058 declarations; 48,539 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.39%)
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.061
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.062
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.063
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.063
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.063
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.064
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.066
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 20:59:27.067
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.961
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.962
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.963
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.964
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.965
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.965
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.966
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:23.967
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.249
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.250
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.251
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.252
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.253
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.254
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.255
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:22:48.256
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.992
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.993
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.993
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.993
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.995
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.995
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.996
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:23:07.996
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY org.eclipse.cdt.core 1 0 2025-04-03 21:24:25.516
+!MESSAGE Indexed 'Practica_5' (25 sources, 126 headers) in 1.81 sec: 12,105 declarations; 48,628 references; 1 unresolved inclusions; 92 syntax errors; 240 unresolved names (0.39%)
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.877
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.877
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.878
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.878
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.879
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.879
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.879
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.879
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.880
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.880
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.881
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:39.881
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.068
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.069
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.070
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.071
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.071
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.072
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.073
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.074
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.075
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.075
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.076
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:29:46.077
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.021
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.022
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.023
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.023
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.023
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.024
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.024
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.025
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.025
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.026
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.026
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:00.027
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.279
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.280
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.282
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.283
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.284
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.284
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.285
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.286
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.286
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.287
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.288
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:05.288
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.034
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.035
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.035
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.036
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.037
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.038
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.039
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.039
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.040
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.041
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.041
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:30:44.042
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.668
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.669
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.669
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.671
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.671
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.672
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.672
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.672
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.672
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.673
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.674
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:33.675
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.068
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.069
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.069
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.070
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.070
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.070
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.071
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.071
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.071
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.072
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.072
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:31:52.073
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.961
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.962
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.963
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.964
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.964
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.964
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.965
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.966
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.968
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.968
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.970
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:36:46.970
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_5\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.608
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.608
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.609
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.610
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.611
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.612
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.613
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.613
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.614
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.615
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.616
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:01.617
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.365
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.365
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.366
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.367
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.368
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.368
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Debug/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.369
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.370
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.370
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.371
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.373
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Inc}"
+
+!ENTRY com.st.stm32cube.ide.mcu.build 4 4 2025-04-03 21:40:39.373
+!MESSAGE Failed to check relative, returning possibly relative path: C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\Practica_4_2\Release/"" literal was "${workspace_loc:/${ProjName}/Drivers/API/Src}"
+
+!ENTRY org.eclipse.ui 4 0 2025-04-04 00:28:41.292
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.eclipse.e4.ui.model.application.ui.basic.MWindow.getContext()" because "window" is null
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.lambda$4(WBWRenderer.java:567)
+	at org.eclipse.swt.events.ShellListener$2.shellClosed(ShellListener.java:102)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:102)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:269)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1550)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4746)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4845)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.ole.win32.COM.VtblCall(Native Method)
+	at org.eclipse.swt.internal.ole.win32.ITaskbarList3.SetOverlayIcon(ITaskbarList3.java:31)
+	at org.eclipse.swt.widgets.TaskItem.destroyWidget(TaskItem.java:112)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:831)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:428)
+	at org.eclipse.swt.widgets.TaskItem$1.handleEvent(TaskItem.java:470)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:814)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:428)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:392)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:183)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:938)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:861)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:845)
+	at org.eclipse.ui.internal.WorkbenchWindow.hardClose(WorkbenchWindow.java:2088)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1720)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$5(WorkbenchWindow.java:1744)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1744)
+	at org.eclipse.ui.internal.Workbench$11.run(Workbench.java:1109)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1092)
+	at org.eclipse.ui.internal.Workbench.lambda$4(Workbench.java:1393)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1393)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1369)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1717)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$5(WorkbenchWindow.java:1744)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1744)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1753)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$2(WorkbenchWindow.java:504)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.lambda$4(WBWRenderer.java:570)
+	at org.eclipse.swt.events.ShellListener$2.shellClosed(ShellListener.java:102)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:102)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:269)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1550)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4746)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4845)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3655)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.ui 4 0 2025-04-04 00:28:41.322
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:369)
+	at org.eclipse.swt.widgets.Decorations.getMinimized(Decorations.java:622)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.lambda$7(WBWRenderer.java:719)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:127)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:814)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:428)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:392)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:183)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:938)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:861)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:845)
+	at org.eclipse.ui.internal.WorkbenchWindow.hardClose(WorkbenchWindow.java:2088)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1720)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$5(WorkbenchWindow.java:1744)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1744)
+	at org.eclipse.ui.internal.Workbench$11.run(Workbench.java:1109)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1092)
+	at org.eclipse.ui.internal.Workbench.lambda$4(Workbench.java:1393)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1393)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1369)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1717)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$5(WorkbenchWindow.java:1744)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1744)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1753)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$2(WorkbenchWindow.java:504)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.lambda$4(WBWRenderer.java:570)
+	at org.eclipse.swt.events.ShellListener$2.shellClosed(ShellListener.java:102)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:102)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:269)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1550)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4746)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4845)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3655)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.ui 4 0 2025-04-04 00:28:41.323
+!MESSAGE Unhandled event loop exception
+!STACK 0
+org.eclipse.swt.SWTException: Widget is disposed
+	at org.eclipse.swt.SWT.error(SWT.java:4918)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.widgets.Widget.error(Widget.java:450)
+	at org.eclipse.swt.widgets.Widget.checkWidget(Widget.java:369)
+	at org.eclipse.swt.widgets.Widget.removeListener(Widget.java:936)
+	at org.eclipse.swt.dnd.DropTarget.onDispose(DropTarget.java:577)
+	at org.eclipse.swt.dnd.DropTarget.lambda$1(DropTarget.java:156)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:814)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:428)
+	at org.eclipse.swt.dnd.DropTarget.lambda$0(DropTarget.java:151)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1071)
+	at org.eclipse.swt.widgets.Widget.release(Widget.java:814)
+	at org.eclipse.swt.widgets.Widget.dispose(Widget.java:428)
+	at org.eclipse.swt.widgets.Decorations.dispose(Decorations.java:392)
+	at org.eclipse.e4.ui.workbench.renderers.swt.SWTPartRenderer.disposeWidget(SWTPartRenderer.java:183)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.safeRemoveGui(PartRenderingEngine.java:938)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:861)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.removeGui(PartRenderingEngine.java:845)
+	at org.eclipse.ui.internal.WorkbenchWindow.hardClose(WorkbenchWindow.java:2088)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1720)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$5(WorkbenchWindow.java:1744)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1744)
+	at org.eclipse.ui.internal.Workbench$11.run(Workbench.java:1109)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1092)
+	at org.eclipse.ui.internal.Workbench.lambda$4(Workbench.java:1393)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1393)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1369)
+	at org.eclipse.ui.internal.WorkbenchWindow.busyClose(WorkbenchWindow.java:1717)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$5(WorkbenchWindow.java:1744)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1744)
+	at org.eclipse.ui.internal.WorkbenchWindow.close(WorkbenchWindow.java:1753)
+	at org.eclipse.ui.internal.WorkbenchWindow.lambda$2(WorkbenchWindow.java:504)
+	at org.eclipse.e4.ui.workbench.renderers.swt.WBWRenderer.lambda$4(WBWRenderer.java:570)
+	at org.eclipse.swt.events.ShellListener$2.shellClosed(ShellListener.java:102)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:102)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Decorations.closeWidget(Decorations.java:269)
+	at org.eclipse.swt.widgets.Decorations.WM_CLOSE(Decorations.java:1550)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4746)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:508)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4845)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1478)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2306)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5040)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3655)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+!SESSION 2025-04-05 20:24:08.831 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-05 20:24:28.579
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-05 20:24:28.590
+!MESSAGE Log4j2 initialized with config file C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-05 20:24:39.340
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2025-04-06 23:01:26.499 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-06 23:01:47.121
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-06 23:01:47.131
+!MESSAGE Log4j2 initialized with config file C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-06 23:01:59.111
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10052 2025-04-07 00:13:51.763
+!MESSAGE Cannot continue the operation.  There is another install operation in progress.
+
+!ENTRY org.eclipse.equinox.p2.operations 4 10052 2025-04-07 00:13:51.780
+!MESSAGE Cannot continue the operation.  There is another install operation in progress.
+!SESSION 2025-04-07 00:18:17.444 -----------------------------------------------
+eclipse.buildId=Version 1.14.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2025-04-07 00:18:31.524
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2025-04-07 00:18:31.539
+!MESSAGE Log4j2 initialized with config file C:\Users\Ignacio\Desktop\Postgrado\Programacion de MCUs\Practicas\Practicas - PdM\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2025-04-07 00:18:52.001
+!MESSAGE Started RMI Server, listening on port 41337
+
+!ENTRY org.eclipse.tm.terminal.connector.cdtserial 4 0 2025-04-07 00:19:43.249
+!MESSAGE Error opening \\.\COM5 (5)
+!STACK 0
+java.io.IOException: Error opening \\.\COM5 (5)
+	at org.eclipse.cdt.serial.SerialPort.open0(Native Method)
+	at org.eclipse.cdt.serial.SerialPort.open(SerialPort.java:316)
+	at org.eclipse.tm.terminal.connector.cdtserial.connector.SerialConnector.connect(SerialConnector.java:80)
+	at org.eclipse.tm.internal.terminal.connector.TerminalConnector.connect(TerminalConnector.java:182)
+	at org.eclipse.tm.internal.terminal.emulator.VT100TerminalControl.connectTerminal(VT100TerminalControl.java:422)
+	at org.eclipse.tm.terminal.view.ui.tabs.TabFolderManager.createTabItem(TabFolderManager.java:330)
+	at org.eclipse.tm.terminal.view.ui.manager.ConsoleManager.openConsole(ConsoleManager.java:489)
+	at org.eclipse.tm.terminal.view.ui.services.TerminalService$2.doRun(TerminalService.java:304)
+	at org.eclipse.tm.terminal.view.ui.services.TerminalService$2.lambda$0(TerminalService.java:274)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
